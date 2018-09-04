@@ -31,5 +31,5 @@ Cliccare Run su StatisticsMicroserviceApplication
 
 Digitare sulla barra degli indirizzi http://localhost:8383/signin.html
 
-Effettuare il login immettendo uno username(es. alex.alvisi.80@gmail.com, password Hello.
+Effettuare il login immettendo uno username(es. alex.alvisi.80@gmail.com), password Hello.
 Guardare il file word allegato per gli screenshot e ulteriori informazioni.
