@@ -29,6 +29,7 @@ Si consiglia di tenere i dati già salvati dentro la tabella per effettuare la s
 Clccare Run su ToDoMicroserviceApplication
 Cliccare Run su StatisticsMicroserviceApplication
 
-Digitare sulla barra degli indirizzi http://localhost:8094/signin.html
+Digitare sulla barra degli indirizzi http://localhost:8383/signin.html
 
-Effettuare il login immettendo uno username a scelta tra LVSLSN80R08C265P(consigliato), FRNFBA85M08D761M, DSTLCU89R52D761R, la password è sempre Hello per semplicità Guardare il file word allegato per gli screenshot e ulteriori informazioni.
+Effettuare il login immettendo uno username(es. alex.alvisi.80@gmail.com, password Hello.
+Guardare il file word allegato per gli screenshot e ulteriori informazioni.
